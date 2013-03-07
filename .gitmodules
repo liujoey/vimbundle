@@ -28,9 +28,6 @@
 [submodule "nerdcommenter"]
 	path = nerdcommenter
 	url = https://github.com/scrooloose/nerdcommenter.git
-[submodule "vim-flake8"]
-	path = vim-flake8
-	url = https://github.com/nvie/vim-flake8.git
 [submodule "python-vim-instant-markdown"]
 	path = python-vim-instant-markdown
 	url = https://github.com/liujoey/python-vim-instant-markdown.git
@@ -67,3 +64,6 @@
 [submodule "vim-virtualenv"]
 	path = vim-virtualenv
 	url = https://github.com/jmcantrell/vim-virtualenv.git
+[submodule "pyflakes-vim"]
+	path = pyflakes-vim
+	url = https://github.com/kevinw/pyflakes-vim.git
