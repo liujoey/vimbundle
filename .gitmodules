@@ -67,3 +67,6 @@
 [submodule "pyflakes-vim"]
 	path = pyflakes-vim
 	url = https://github.com/kevinw/pyflakes-vim.git
+[submodule "ag.vim"]
+	path = ag.vim
+	url = https://github.com/epmatsw/ag.vim.git
