@@ -7,9 +7,6 @@
 [submodule "YankRing.vim"]
 	path = YankRing.vim
 	url = https://github.com/vim-scripts/YankRing.vim.git
-[submodule "ack.vim"]
-	path = ack.vim
-	url = https://github.com/mileszs/ack.vim.git
 [submodule "gundo.vim"]
 	path = gundo.vim
 	url = https://github.com/sjl/gundo.vim.git
@@ -31,9 +28,6 @@
 [submodule "python-vim-instant-markdown"]
 	path = python-vim-instant-markdown
 	url = https://github.com/liujoey/python-vim-instant-markdown.git
-[submodule "snipmate-snippets"]
-	path = snipmate-snippets
-	url = https://github.com/honza/snipmate-snippets.git
 [submodule "supertab"]
 	path = supertab
 	url = https://github.com/ervandew/supertab.git
@@ -70,3 +64,6 @@
 [submodule "ag.vim"]
 	path = ag.vim
 	url = https://github.com/epmatsw/ag.vim.git
+[submodule "vim-snippets"]
+	path = vim-snippets
+	url = https://github.com/honza/vim-snippets.git
