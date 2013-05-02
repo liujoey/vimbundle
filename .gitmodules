@@ -1,69 +1,73 @@
 [submodule "CamelCaseMotion"]
-	path = CamelCaseMotion
-	url = https://github.com/bkad/CamelCaseMotion.git
+    path = CamelCaseMotion
+    url = https://github.com/bkad/CamelCaseMotion.git
 [submodule "Command-T"]
-	path = Command-T
-	url = https://github.com/wincent/Command-T.git
+    path = Command-T
+    url = https://github.com/wincent/Command-T.git
 [submodule "YankRing.vim"]
-	path = YankRing.vim
-	url = https://github.com/vim-scripts/YankRing.vim.git
+    path = YankRing.vim
+    url = https://github.com/vim-scripts/YankRing.vim.git
+    ignore = dirty
 [submodule "gundo.vim"]
-	path = gundo.vim
-	url = https://github.com/sjl/gundo.vim.git
+    path = gundo.vim
+    url = https://github.com/sjl/gundo.vim.git
 [submodule "jedi-vim"]
-	path = jedi-vim
-	url = https://github.com/davidhalter/jedi-vim.git
+    path = jedi-vim
+    url = https://github.com/davidhalter/jedi-vim.git
 [submodule "tlib_vim"]
-	path = tlib_vim
-	url = https://github.com/tomtom/tlib_vim.git
+    path = tlib_vim
+    url = https://github.com/tomtom/tlib_vim.git
 [submodule "lusty"]
-	path = lusty
-	url = https://github.com/sjbach/lusty.git
+    path = lusty
+    url = https://github.com/sjbach/lusty.git
 [submodule "nerdtree"]
-	path = nerdtree
-	url = https://github.com/scrooloose/nerdtree.git
+    path = nerdtree
+    url = https://github.com/scrooloose/nerdtree.git
 [submodule "nerdcommenter"]
-	path = nerdcommenter
-	url = https://github.com/scrooloose/nerdcommenter.git
+    path = nerdcommenter
+    url = https://github.com/scrooloose/nerdcommenter.git
 [submodule "python-vim-instant-markdown"]
-	path = python-vim-instant-markdown
-	url = https://github.com/liujoey/python-vim-instant-markdown.git
+    path = python-vim-instant-markdown
+    url = https://github.com/liujoey/python-vim-instant-markdown.git
 [submodule "supertab"]
-	path = supertab
-	url = https://github.com/ervandew/supertab.git
+    path = supertab
+    url = https://github.com/ervandew/supertab.git
 [submodule "vim-addon-mw-utils"]
-	path = vim-addon-mw-utils
-	url = https://github.com/MarcWeber/vim-addon-mw-utils.git
+    path = vim-addon-mw-utils
+    url = https://github.com/MarcWeber/vim-addon-mw-utils.git
 [submodule "vim-django"]
-	path = vim-django
-	url = https://github.com/cwood/vim-django.git
+    path = vim-django
+    url = https://github.com/cwood/vim-django.git
+    ignore = dirty
 [submodule "vim-fugitive"]
-	path = vim-fugitive
-	url = https://github.com/tpope/vim-fugitive.git
+    path = vim-fugitive
+    url = https://github.com/tpope/vim-fugitive.git
 [submodule "vim-markdown"]
-	path = vim-markdown
-	url = https://github.com/tpope/vim-markdown.git
+    path = vim-markdown
+    url = https://github.com/tpope/vim-markdown.git
 [submodule "vim-repeat"]
-	path = vim-repeat
-	url = https://github.com/tpope/vim-repeat.git
+    path = vim-repeat
+    url = https://github.com/tpope/vim-repeat.git
 [submodule "vim-slime"]
-	path = vim-slime
-	url = https://github.com/jpalardy/vim-slime.git
+    path = vim-slime
+    url = https://github.com/jpalardy/vim-slime.git
 [submodule "vim-snipmate"]
-	path = vim-snipmate
-	url = https://github.com/garbas/vim-snipmate.git
+    path = vim-snipmate
+    url = https://github.com/garbas/vim-snipmate.git
 [submodule "vim-surround"]
-	path = vim-surround
-	url = https://github.com/tpope/vim-surround.git
+    path = vim-surround
+    url = https://github.com/tpope/vim-surround.git
 [submodule "vim-virtualenv"]
-	path = vim-virtualenv
-	url = https://github.com/jmcantrell/vim-virtualenv.git
+    path = vim-virtualenv
+    url = https://github.com/jmcantrell/vim-virtualenv.git
+    ignore = dirty
 [submodule "pyflakes-vim"]
-	path = pyflakes-vim
-	url = https://github.com/kevinw/pyflakes-vim.git
+    path = pyflakes-vim
+    url = https://github.com/kevinw/pyflakes-vim.git
+    ignore = dirty
 [submodule "ag.vim"]
-	path = ag.vim
-	url = https://github.com/epmatsw/ag.vim.git
+    path = ag.vim
+    url = https://github.com/epmatsw/ag.vim.git
 [submodule "vim-snippets"]
-	path = vim-snippets
-	url = https://github.com/honza/vim-snippets.git
+    path = vim-snippets
+    url = https://github.com/honza/vim-snippets.git
