@@ -51,9 +51,6 @@
 [submodule "vim-slime"]
     path = vim-slime
     url = https://github.com/jpalardy/vim-slime.git
-[submodule "vim-snipmate"]
-    path = vim-snipmate
-    url = https://github.com/garbas/vim-snipmate.git
 [submodule "vim-surround"]
     path = vim-surround
     url = https://github.com/tpope/vim-surround.git
@@ -68,6 +65,6 @@
 [submodule "ag.vim"]
     path = ag.vim
     url = https://github.com/epmatsw/ag.vim.git
-[submodule "vim-snippets"]
-    path = vim-snippets
-    url = https://github.com/honza/vim-snippets.git
+[submodule "vim-powerline"]
+	path = vim-powerline
+	url = https://github.com/Lokaltog/vim-powerline.git
