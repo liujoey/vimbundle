@@ -65,3 +65,6 @@
 [submodule "ag.vim"]
     path = ag.vim
     url = https://github.com/epmatsw/ag.vim.git
+[submodule "vim-easymotion"]
+	path = vim-easymotion
+	url = https://github.com/Lokaltog/vim-easymotion.git
