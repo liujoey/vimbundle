@@ -71,3 +71,6 @@
 [submodule "vim-misc"]
     path = vim-misc
     url = https://github.com/xolox/vim-misc.git
+[submodule "ack.vim"]
+	path = ack.vim
+	url = https://github.com/mileszs/ack.vim.git
