@@ -47,24 +47,27 @@
     path = pyflakes-vim
     url = https://github.com/kevinw/pyflakes-vim.git
     ignore = dirty
-[submodule "ag.vim"]
-    path = ag.vim
-    url = https://github.com/epmatsw/ag.vim.git
 [submodule "vim-easymotion"]
-	path = vim-easymotion
-	url = https://github.com/Lokaltog/vim-easymotion.git
+    path = vim-easymotion
+    url = https://github.com/Lokaltog/vim-easymotion.git
 [submodule "ctrlp.vim"]
-	path = ctrlp.vim
-	url = https://github.com/kien/ctrlp.vim.git
+    path = ctrlp.vim
+    url = https://github.com/kien/ctrlp.vim.git
 [submodule "delimitMate"]
-	path = delimitMate
-	url = https://github.com/Raimondi/delimitMate.git
+    path = delimitMate
+    url = https://github.com/Raimondi/delimitMate.git
 [submodule "vim-multiple-cursors"]
-	path = vim-multiple-cursors
-	url = https://github.com/terryma/vim-multiple-cursors.git
+    path = vim-multiple-cursors
+    url = https://github.com/terryma/vim-multiple-cursors.git
 [submodule "tcomment_vim"]
-	path = tcomment_vim
-	url = https://github.com/tomtom/tcomment_vim.git
+    path = tcomment_vim
+    url = https://github.com/tomtom/tcomment_vim.git
 [submodule "YouCompleteMe"]
-	path = YouCompleteMe
-	url = https://github.com/Valloric/YouCompleteMe.git
+    path = YouCompleteMe
+    url = https://github.com/Valloric/YouCompleteMe.git
+[submodule "vim-session"]
+    path = vim-session
+    url = https://github.com/xolox/vim-session.git
+[submodule "vim-misc"]
+    path = vim-misc
+    url = https://github.com/xolox/vim-misc.git
