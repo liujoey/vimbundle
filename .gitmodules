@@ -65,12 +65,12 @@
 [submodule "YouCompleteMe"]
     path = YouCompleteMe
     url = https://github.com/Valloric/YouCompleteMe.git
-[submodule "vim-session"]
-    path = vim-session
-    url = https://github.com/xolox/vim-session.git
 [submodule "vim-misc"]
     path = vim-misc
     url = https://github.com/xolox/vim-misc.git
 [submodule "ack.vim"]
 	path = ack.vim
 	url = https://github.com/mileszs/ack.vim.git
+[submodule "vim-powerline"]
+	path = vim-powerline
+	url = https://github.com/Lokaltog/vim-powerline.git
